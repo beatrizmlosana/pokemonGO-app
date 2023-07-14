@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">pkm_go</string>
+
+    <string name="boton_listar">Pokedex</string>
+    <string name="boton_capturar">Capturar</string>
+    <string name="boton_introducir">Introducir</string>
+
+    <string name="txt_nombre">Nombre del pokemon ➩</string>
+    <string name="ext_nombre"> </string>
+    <string name="txt_coordenadas">INSERTA LAS COORDENADAS</string>
+    <string name="txt_coordenadasX">Coordenada X ➩</string>
+    <string name="txt_coordenadasY">Coordenada Y ➩</string>
+    <string name="ext_coordenadaX"> </string>
+    <string name="ext_coordenadaY"> </string>
+    <string name="texto_pregunta">Elige el tipo de pokemon</string>
+    <string name="opcion_tierra">PLANTA</string>
+    <string name="opcion_agua">AGUA</string>
+    <string name="opcion_fuego">FUEGO</string>
+    <string name="opcion_electrico">ELÉCTRICO</string>
+    <string name="boton_enviar">ENVIAR</string>
+    <string name="boton_volver"></string>
+
+
+    <string name="txt_lista">LISTA DE LOS POKEMON QUE HAS CAPTURADO:</string>
+</resources>
