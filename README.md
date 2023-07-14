@@ -3,8 +3,6 @@ Para realizar la captura, el usuario deberá insertar el nombre y el tipo de pok
 
 ![Captura de pantalla 2023-07-14 185823](https://github.com/beatrizmlosana/pokemonGO-app/assets/136492250/cb0ae959-e087-40b7-b7d1-36641df11066)
 
+![Captura de pantalla 2023-07-14 190037](https://github.com/beatrizmlosana/pokemonGO-app/assets/136492250/c5e476d3-3365-477b-adc2-1b4ee9c83608)
 
 ![Captura de pantalla 2023-07-14 190004](https://github.com/beatrizmlosana/pokemonGO-app/assets/136492250/3bc8fbe2-68db-455e-ac36-253f3041ecfa)
-
-
-![Captura de pantalla 2023-07-14 190037](https://github.com/beatrizmlosana/pokemonGO-app/assets/136492250/c5e476d3-3365-477b-adc2-1b4ee9c83608)
